@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👀 I’m interested in web development, artificial intelligence, and creating SaaS applications.<br>🌱 I’m currently learning Python and deepening my knowledge in backend technologies.<br>💞️ I’m looking to collaborate on projects related to web applications and AI solutions. <br>⚡ Fun fact: Null
 
 ## 🌐 Socials:
