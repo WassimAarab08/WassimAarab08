@@ -1,5 +1,5 @@
 #  About Me:
-👀 I’m interested in web development, artificial intelligence, and creating SaaS applications.<br>🌱 I’m currently learning Python and deepening my knowledge in backend technologies.<br>💞️ I’m looking to collaborate on projects related to web applications and AI solutions. <br>⚡ Fun fact: Null
+✨I’m interested in web development, artificial intelligence, and creating SaaS applications.<br>🌱 I’m currently learning Python and deepening my knowledge in backend technologies.<br>💞️ I’m looking to collaborate on projects related to web applications and AI solutions. <br>⚡ Fun fact: Null
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassim-aarab/) 
