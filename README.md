@@ -5,7 +5,7 @@
 ### Desarrollador Full Stack
 
 <p align="center">
-  <em>Desarrollador enfocado en construir APIs escalables, gestión eficiente de bases de datos y arquitecturas robustas.</em>
+  <em>Desarrollador enfocado en construir APIs escalables, gestión eficiente de bases de datos y arquitecturas robustas</em>
 </p>
 
 ---
